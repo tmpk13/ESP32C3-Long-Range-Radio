@@ -2,6 +2,8 @@
 Long range radio with the ESP32C3
 
 <img width="418" height="668" alt="image" src="https://github.com/user-attachments/assets/99777e28-6692-408c-99bb-ed9dc428499c" />
+<img width="2706" height="2483" alt="image" src="https://github.com/user-attachments/assets/e6a7a03f-fd90-48eb-bee5-2111cecce982" />
+<img width="436" height="664" alt="image" src="https://github.com/user-attachments/assets/00f7834f-d9a9-4ad3-b30e-1369ad928a62" />
 
 
 ## SX126x
