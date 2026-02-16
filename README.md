@@ -1,6 +1,9 @@
 # ESP32C3-Long-Range-Radio
 Long range radio with the ESP32C3
 
+<img width="418" height="668" alt="image" src="https://github.com/user-attachments/assets/99777e28-6692-408c-99bb-ed9dc428499c" />
+
+
 ## SX126x
 [SX126x Refrence Designs](https://www.semtech.com/products/wireless-rf/lora-connect/sx1262)
 [SX126x Datasheet](https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/2R000000HT7B/4cQ1B3JG0iKRo9DGRkjVuxclfwB.3tfSUcGr.S_dPd4)
