@@ -19,3 +19,4 @@ https://documentation.espressif.com/esp32-c3-mini-1_datasheet_en.pdf
 <img width="992" height="678" alt="Esp32 design schematic" src="https://github.com/user-attachments/assets/a3672ca3-eb3c-477a-abb5-c1063053c0c0" />
 
 
+Does vbus go from layer 1 to 4 or stay on 1?
