@@ -20,3 +20,6 @@ https://documentation.espressif.com/esp32-c3-mini-1_datasheet_en.pdf
 
 
 Does vbus go from layer 1 to 4 or stay on 1?
+
+Matching track lengths?
+<img width="885" height="627" alt="image" src="https://github.com/user-attachments/assets/4c9f1eb7-1d31-4d92-8115-f202c5269f07" />
