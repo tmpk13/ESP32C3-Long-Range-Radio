@@ -27,3 +27,7 @@ Does vbus go from layer 1 to 4 or stay on 1?
 
 Matching track lengths?
 <img width="885" height="627" alt="image" src="https://github.com/user-attachments/assets/4c9f1eb7-1d31-4d92-8115-f202c5269f07" />
+
+
+### Notes:
+Swapping to PE4259-63 much easier footprint (maybe less heat dissipation?)
