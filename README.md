@@ -30,6 +30,8 @@ Matching track lengths?
 
 https://www.lcsc.com/datasheet/C470892.pdf
 <img width="933" height="609" alt="image" src="https://github.com/user-attachments/assets/e2e377a2-b7c4-48e4-b8ab-7ef112210fc4" />
+<img width="841" height="646" alt="image" src="https://github.com/user-attachments/assets/82244a9a-a54b-4efe-bd39-2586a4385a2e" />
+
 
 ### Notes:
 Swapping to PE4259-63 much easier footprint (maybe less heat dissipation?)
