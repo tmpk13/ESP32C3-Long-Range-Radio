@@ -37,3 +37,5 @@ Swapping to PE4259-63 much easier footprint (maybe less heat dissipation?)
 
 Does vbus go from layer 1 to 4 or stay on 1?
 Where to add stitching vias?
+
+Swap to 0402 footprint?
