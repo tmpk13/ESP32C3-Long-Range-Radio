@@ -23,8 +23,6 @@ https://documentation.espressif.com/esp32-c3-mini-1_datasheet_en.pdf
 
 
 
-Does vbus go from layer 1 to 4 or stay on 1?
-
 <img width="557" height="776" alt="image" src="https://github.com/user-attachments/assets/ecb4aaa0-a483-4dd2-8b0f-aa37796f1ec0" />
 
 
@@ -36,3 +34,6 @@ https://www.lcsc.com/datasheet/C470892.pdf
 
 ### Notes:
 Swapping to PE4259-63 much easier footprint (maybe less heat dissipation?)
+
+Does vbus go from layer 1 to 4 or stay on 1?
+Where to add stitching vias?
