@@ -2,10 +2,19 @@
 Long range radio with the ESP32C3
 
 <img width="427" height="771" alt="image" src="https://github.com/user-attachments/assets/b516c6b0-a4a9-43cf-aae4-ced807037a04" />
+<img width="355" height="620" alt="image" src="https://github.com/user-attachments/assets/579e122d-df9c-47be-8386-b98dba1d07fb" />
+
 <img width="3843" height="3544" alt="image" src="https://github.com/user-attachments/assets/5bc46842-311e-41d8-88b7-27591bb6c112" />
+<img width="402" height="693" alt="image" src="https://github.com/user-attachments/assets/c12a00e6-f382-4ef3-ba15-aa2c0c80cbd1" />
 
 
-<img width="436" height="664" alt="image" src="https://github.com/user-attachments/assets/00f7834f-d9a9-4ad3-b30e-1369ad928a62" />
+<img width="428" height="764" alt="image" src="https://github.com/user-attachments/assets/fb72bba8-9f72-4108-a1df-31f699e8f0cd" />
+<img width="424" height="767" alt="image" src="https://github.com/user-attachments/assets/e373a5de-cf97-4c40-b431-9a136d2574d9" />
+<img width="431" height="769" alt="image" src="https://github.com/user-attachments/assets/5f2f38c5-7019-417c-ad00-ddbcf07e7ca9" />
+<img width="435" height="768" alt="image" src="https://github.com/user-attachments/assets/2cb9a8ac-b4c6-492a-9f77-d98291a7c8b8" />
+
+
+<img width="483" height="868" alt="image" src="https://github.com/user-attachments/assets/463d9d01-a815-4f56-a0ad-00b6c38e716b" />
 
 
 ## SX126x
@@ -25,7 +34,6 @@ https://documentation.espressif.com/esp32-c3-mini-1_datasheet_en.pdf
 
 
 
-<img width="557" height="776" alt="image" src="https://github.com/user-attachments/assets/ecb4aaa0-a483-4dd2-8b0f-aa37796f1ec0" />
 
 
 
@@ -42,7 +50,8 @@ Where to add stitching vias?
 
 Swap to 0402 footprint?
 
-# 1st Vsersion
+# 1st Version
+<img width="436" height="664" alt="image" src="https://github.com/user-attachments/assets/00f7834f-d9a9-4ad3-b30e-1369ad928a62" />
 
 <img width="418" height="668" alt="image" src="https://github.com/user-attachments/assets/99777e28-6692-408c-99bb-ed9dc428499c" />
 <img width="2706" height="2483" alt="image" src="https://github.com/user-attachments/assets/e6a7a03f-fd90-48eb-bee5-2111cecce982" />
