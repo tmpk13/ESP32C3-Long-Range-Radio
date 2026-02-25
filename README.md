@@ -1,8 +1,10 @@
 # ESP32C3-Long-Range-Radio
 Long range radio with the ESP32C3
 
-<img width="418" height="668" alt="image" src="https://github.com/user-attachments/assets/99777e28-6692-408c-99bb-ed9dc428499c" />
-<img width="2706" height="2483" alt="image" src="https://github.com/user-attachments/assets/e6a7a03f-fd90-48eb-bee5-2111cecce982" />
+<img width="427" height="771" alt="image" src="https://github.com/user-attachments/assets/b516c6b0-a4a9-43cf-aae4-ced807037a04" />
+<img width="3843" height="3544" alt="image" src="https://github.com/user-attachments/assets/5bc46842-311e-41d8-88b7-27591bb6c112" />
+
+
 <img width="436" height="664" alt="image" src="https://github.com/user-attachments/assets/00f7834f-d9a9-4ad3-b30e-1369ad928a62" />
 
 
@@ -39,3 +41,8 @@ Does vbus go from layer 1 to 4 or stay on 1?
 Where to add stitching vias?
 
 Swap to 0402 footprint?
+
+# 1st Vsersion
+
+<img width="418" height="668" alt="image" src="https://github.com/user-attachments/assets/99777e28-6692-408c-99bb-ed9dc428499c" />
+<img width="2706" height="2483" alt="image" src="https://github.com/user-attachments/assets/e6a7a03f-fd90-48eb-bee5-2111cecce982" />
