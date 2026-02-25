@@ -5,7 +5,6 @@ Long range radio with the ESP32C3
 <img width="496" height="875" alt="image" src="https://github.com/user-attachments/assets/44632016-9253-4ad5-9948-cf9e9ef2e195" />
 
 <img width="3843" height="3544" alt="image" src="https://github.com/user-attachments/assets/5bc46842-311e-41d8-88b7-27591bb6c112" />
-<img width="402" height="693" alt="image" src="https://github.com/user-attachments/assets/c12a00e6-f382-4ef3-ba15-aa2c0c80cbd1" />
 
 
 <img width="428" height="764" alt="image" src="https://github.com/user-attachments/assets/fb72bba8-9f72-4108-a1df-31f699e8f0cd" />
