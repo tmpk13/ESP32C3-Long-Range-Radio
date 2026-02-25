@@ -2,7 +2,7 @@
 Long range radio with the ESP32C3
 
 <img width="427" height="771" alt="image" src="https://github.com/user-attachments/assets/b516c6b0-a4a9-43cf-aae4-ced807037a04" />
-<img width="355" height="620" alt="image" src="https://github.com/user-attachments/assets/579e122d-df9c-47be-8386-b98dba1d07fb" />
+<img width="496" height="875" alt="image" src="https://github.com/user-attachments/assets/44632016-9253-4ad5-9948-cf9e9ef2e195" />
 
 <img width="3843" height="3544" alt="image" src="https://github.com/user-attachments/assets/5bc46842-311e-41d8-88b7-27591bb6c112" />
 <img width="402" height="693" alt="image" src="https://github.com/user-attachments/assets/c12a00e6-f382-4ef3-ba15-aa2c0c80cbd1" />
